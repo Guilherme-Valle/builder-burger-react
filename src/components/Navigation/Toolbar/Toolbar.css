@@ -22,6 +22,10 @@
     height: 80%;
 }
 
+.MenuIcon {
+    cursor: pointer;
+}
+
 
 @media (max-width: 499px){
     .DesktopOnly {
